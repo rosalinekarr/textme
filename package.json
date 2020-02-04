@@ -1,0 +1,23 @@
+{
+  "name": "textme",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rosalinekarr/textme.git"
+  },
+  "author": "Rose Karr <rose@rosalinekarr.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rosalinekarr/textme/issues"
+  },
+  "homepage": "https://github.com/rosalinekarr/textme#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "twilio": "^3.39.3"
+  }
+}
